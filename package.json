@@ -6,12 +6,12 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8",
+    "react-favicon": "0.0.14",
     "typescript": "^3.4.3"
   },
-    "devDependencies": {
+  "devDependencies": {
     "gh-pages": "^1.0.0",
-    "react-scripts": "1.0.7"
+    "react-scripts": "^2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
