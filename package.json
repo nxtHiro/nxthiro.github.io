@@ -4,7 +4,10 @@
   "private": true,
   "homepage": "http://nxthiro.github.io",
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "material-ui": "^0.20.2",
     "react": "^16.8.6",
+    "react-awesome-button": "^6.1.0",
     "react-dom": "^16.8.6",
     "react-favicon": "0.0.14",
     "typescript": "^3.4.3"
